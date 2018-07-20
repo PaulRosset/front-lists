@@ -3,3 +3,25 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.notif {
+  background-color: #e9e6e6;
+}
+
+.notif-progress {
+  background: #24292e !important;
+}
+
+.notif-body {
+  font-family: Lato, "Helvetica Neue", Arial, Helvetica, sans-serif;
+  color: #24292e;
+}
+
+.RadioFeatures {
+  margin: 0 !important;
+}
+
+.buttonFeaturesEditing {
+  margin-top: 10px !important;
+  text-align: center !important;
+}
